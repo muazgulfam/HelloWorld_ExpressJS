@@ -1,0 +1,23 @@
+{
+  "name": "helloworld_expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muazgulfam/HelloWorld_ExpressJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muazgulfam/HelloWorld_ExpressJS/issues"
+  },
+  "homepage": "https://github.com/muazgulfam/HelloWorld_ExpressJS#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
